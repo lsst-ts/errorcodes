@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors codes for M2AADT
+
+<nifamily familyname="M2AADT" displayname="M2AADT">
+</nifamily>
+</nicomment>
+<nierror code="6001">
+Limit switch 1 active.
+</nierror>
+<nierror code="6002">
+Limit switch 2 active.
+</nierror>
+<nierror code="6003">
+Stiffness out of range.
+</nierror>
+<nierror code="6004">
+Motor overheat temperature exceeded.
+</nierror>
+</nidocument>
