@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors associated with ILCCommon.
+
+<nifamily familyname="ILCCommon" displayname="ILCCommon">
+</nifamily>
+</nicomment>
+<nierror code="5001">
+Reported scan mode is invalid.
+</nierror>
+<nierror code="5002">
+Reported limit switch value is invalid.
+</nierror>
+</nidocument>
