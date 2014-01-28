@@ -3,14 +3,15 @@
 <nicomment>
 Errors codes for M2AADT
 
+
 <nifamily familyname="M2AADT" displayname="M2AADT">
 </nifamily>
 </nicomment>
 <nierror code="6001">
-Limit switch 1 active.
+Limit switch 1 operated.
 </nierror>
 <nierror code="6002">
-Limit switch 2 active.
+Limit switch 2 operated.
 </nierror>
 <nierror code="6003">
 Stiffness out of range.
