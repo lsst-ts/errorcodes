@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Faults associated with ConfigurationEditor.
+<nifamily familyname="ConfigurationEditor" displayname="ConfigurationEditor">
+</nifamily>
+</nicomment>
+<nierror code="5051">
+The clrlRefArrayUsrEvnt user event did not fire before the timeout expired.
+</nierror>
+</nidocument>
