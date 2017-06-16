@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors for M1M3 Static Support Stiffness Tester application.
+<nifamily familyname="M1M3SSST" displayname="M1M3SSST">
+</nifamily>
+</nicomment>
+<nierror code="5080">
+Measured force exceeded limit allowed during preconditioning.
+</nierror>
+</nidocument>
