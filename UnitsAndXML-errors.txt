@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Error codes for  Units and XML (range 9100-9199)
+</nicomment>
+<nierror code="9101">
+Variant input is not Double Float With Unit.
+</nierror>
+<nierror code="9100">
+Variant input is not an array.
+</nierror>
+</nidocument>

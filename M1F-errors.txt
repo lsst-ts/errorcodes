@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Error codes for the primary mirror axial support system, M1F (range: 7230-7249)
+</nicomment>
+<nierror code="7231">
+Shared variable from event does not match list.
+</nierror>
+</nidocument>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+M1S errors.
+</nicomment>
+<nierror code="7200">
+Sector mapping configuration doesn't match array size requirements.
+</nierror>
+<nierror code="7201">
+Cumulative Measured Force exceeds configured limit.
+</nierror>
+<nierror code="7202">
+An M1S Subsystem is in Fault State.
+</nierror>
+<nierror code="7203">
+No heartbeat detected from M1F.
+</nierror>
+<nierror code="7209">
+No heartbeat detected from M1L.
+</nierror>
+<nierror code="7210">
+No heartbeat detected from M1P.
+</nierror>
+</nidocument>

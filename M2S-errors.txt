@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+</nicomment>
+<nierror code="7100">
+Lack of heartbeat from M2P.
+</nierror>
+<nierror code="7101">
+Lack of heartbeat from M2V.
+</nierror>
+</nidocument>

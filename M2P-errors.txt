@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors associated with M2P component (range: 7130-7159).
+</nicomment>
+<nierror code="7132">
+Shared variable in event not recognized.
+</nierror>
+<nierror code="7131">
+Finished move but did not find all the reference marks.
+</nierror>
+</nidocument>

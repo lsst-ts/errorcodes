@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="DistanceGauge" displayname="DistanceGauge">
+</nifamily>
+</nicomment>
+<nierror code="5076">
+Unit provided invalid unexpected response to all sensor amplifier perform preset request.
+</nierror>
+</nidocument>

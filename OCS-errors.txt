@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+OCS Errors (range: 8700-8799)
+</nicomment>
+<nierror code="8701">
+Wired input should have units.
+</nierror>
+<nierror code="8700">
+Wired input should not have units.
+</nierror>
+</nidocument>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+</nicomment>
+<nierror code="8850">
+An unknown SV has caused an event.  Probably a new SV was added, or an existing one was re-named, and the consumerCorrelator VI was not updated to reflect the change.
+</nierror>
+<nierror code="8851">
+Unknown TCSTcsCommand XML object received.
+</nierror>
+<nierror code="8852">
+Unknown TCSGuiderCommand XML object received.
+</nierror>
+<nierror code="8853">
+Unknown TCSActiveOpticsCommand XML object received.
+</nierror>
+<nierror code="8854">
+Unknown TCSAtmosphericDispersionCommand XML object received.
+</nierror>
+<nierror code="8855">
+Unknown TCSMCCCommand XML object received.
+</nierror>
+<nierror code="8856">
+Unknown TCSWeatherServerCommand XML object received.
+</nierror>
+</nidocument>

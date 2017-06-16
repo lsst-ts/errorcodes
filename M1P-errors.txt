@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors associated with M1P component (range: 7210-7229).
+</nicomment>
+<nierror code="7212">
+Shared variable in event not recognized.
+</nierror>
+<nierror code="7210">
+Torsion limit exceeded.
+</nierror>
+<nierror code="7211">
+Finished move but did not find all the reference marks.
+</nierror>
+</nidocument>

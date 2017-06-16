@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+The error codes for the DAS (range: 6500-6599)
+</nicomment>
+<nierror code="6500">
+Coarse sensor command failed.
+</nierror>
+<nierror code="6502">
+Too many chars and still no EOL.
+</nierror>
+<nierror code="6503">
+Coarse sensor reading out of range.
+</nierror>
+<nierror code="6506">
+Error bit from NW Fine Sensor is true.
+</nierror>
+<nierror code="6507">
+Error bit from SE Fine Sensor is true.
+</nierror>
+<nierror code="6510">
+Panel fault (External Fault).  This may indicate that power has failed or that a breaker has tripped.
+</nierror>
+<nierror code="6511">
+The 24VDC power supply is indicating an overload or other fault condition.
+</nierror>
+<nierror code="6512">
+An emergency stop is in progress.
+</nierror>
+<nierror code="6514">
+CW and CCW signals should not be simultaneously asserted.
+</nierror>
+<nierror code="6515">
+A VFD internal fault has been detected.
+</nierror>
+<nierror code="6516">
+Motor reports it is energized but without a valid motion direction.
+</nierror>
+</nidocument>

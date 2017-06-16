@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Error codes for the AOS component (6700-6799).
+</nicomment>
+<nierror code="6703">
+File path for WOLM Logger does not exist or configured permissions don't allow writing to it.  Edit the Logger configuration to correct this, making sure the path exists on disk and the current user is allowed write permission to the directory.
+</nierror>
+<nierror code="6702">
+Lack of Heartbeat from M2S.  Network connection is broken or M2S Controller is in Standby or Off State, or has shutdown.
+</nierror>
+<nierror code="6701">
+Lack of Heartbeat from M1S.  Network connection is broken or M1S Controller is in Standby or Off State, or has shutdown.
+</nierror>
+</nidocument>

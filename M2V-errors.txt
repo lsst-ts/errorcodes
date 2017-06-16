@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Errors for M2V (range: 7130-7149).
+</nicomment>
+<nierror code="7162">
+The measured pressure is outside the configured range.
+</nierror>
+<nierror code="7161">
+The magnitude of the measured force(s) difference from the mean is outside the range of configurable range.
+</nierror>
+<nierror code="7160">
+Measured Cumulative Force is outside of configured limits.
+</nierror>
+<nierror code="7163">
+Shared variable in event not recognized.
+</nierror>
+</nidocument>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+This is the error code file for  TCSDataDefinitions
+</nicomment>
+<nierror code="5300">
+A read from XML method received an empty string.
+</nierror>
+<nierror code="5301">
+Invalid target, XML cannot properly parse
+</nierror>
+<nierror code="5302">
+Class not specified.  XML attribute must specify class type, including namespace.
+</nierror>
+</nidocument>

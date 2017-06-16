@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+The error codes for XML (range: 9300-9399
+</nicomment>
+<nierror code="9300">
+Missing open tag, unable to parse XML
+</nierror>
+<nierror code="9301">
+Missing closing tag, unable to parse XML
+</nierror>
+<nierror code="9302">
+Expected child tag not found, unable to parse XML
+</nierror>
+<nierror code="9303">
+Duplicate peer tag found, unable to parse XML
+</nierror>
+<nierror code="9304">
+The loop has reached the end of the string without finding an appropriate closing tag. This is an error, and will cause the loop to stop.
+</nierror>
+<nierror code="9305">
+Child data empty, check for valid XML
+</nierror>
+<nierror code="9306">
+Attributes found, but failed to generate Attributes String to parse
+</nierror>
+</nidocument>

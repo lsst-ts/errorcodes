@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+M1L error codes (range: 7250-7269)
+</nicomment>
+<nierror code="7252">
+Measured tangent Force(s) outside of configured range.
+</nierror>
+<nierror code="7253">
+Measured tangent Force(s) outside of configured range.
+</nierror>
+<nierror code="7251">
+Shared variable from event does not match list, or the Shared Variable failed validation.
+</nierror>
+</nidocument>

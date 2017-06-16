@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+Dome Shutter System (DSS) error codes (range: 6600-6699)
+</nicomment>
+<nierror code="6615">
+Open move requested while primary mirror cover is not closed.
+</nierror>
+<nierror code="6612">
+The right door VFD reported an internal fault.
+</nierror>
+<nierror code="6611">
+The left door VFD reported an internal fault.
+</nierror>
+<nierror code="6608">
+Encoder binary counts outside valid range.
+</nierror>
+<nierror code="6606">
+A door reported that that both the fully closed and fully opened limits are active at the same time.
+</nierror>
+<nierror code="6604">
+An emergency stop is in progress.
+</nierror>
+<nierror code="6602">
+One door reports it is opening while the other reports it is closing.
+</nierror>
+<nierror code="6601">
+Door reports that motor is energized but it reports that it is neither opening nor closing.
+</nierror>
+<nierror code="6600">
+Door reports that is both opening and closing.
+</nierror>
+<nierror code="6603">
+The 24VDC power supply is indicating an overload or other fault condition.
+</nierror>
+<nierror code="6605">
+Panel fault (External Fault).  This may indicate that power has failed or that a breaker has tripped.
+</nierror>
+<nierror code="6609">
+Right door has exceeded the racking limit (the configurable parameter for the difference between position sensors on a door).
+</nierror>
+<nierror code="6610">
+Left door has exceeded the racking limit (the configurable parameter for the difference between position sensors on a door).
+</nierror>
+<nierror code="6613">
+Left door hand wheel is not stowed.
+</nierror>
+<nierror code="6614">
+Right door hand wheel is not stowed.
+</nierror>
+<nierror code="6607">
+The shutter reported that it stopped during the close operation but also reports that it is not closed.
+</nierror>
+<nierror code="6616">
+The shutter reported that it stopped during the open operation but also reports that it is not completely open.
+</nierror>
+</nidocument>

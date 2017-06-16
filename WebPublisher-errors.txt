@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+This file handles the errors for the web publishing.
+</nicomment>
+<nierror code="9030">
+The NIWebServer.conf file is missing.  Please close the application and reopen it.  If the problem persists, consult an engineer.
+</nierror>
+<nierror code="9031">
+The HTML file configuration was not found in the expected location.  Please doulbe check the configuration and try again.  If the problem persists, consult an engineer.
+</nierror>
+</nidocument>
